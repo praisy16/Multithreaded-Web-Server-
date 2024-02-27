@@ -16,3 +16,7 @@ Screenshots of http response from wireshark -
 ![Screenshot 2024-02-26 205919](https://github.com/praisy16/Multithreaded-Web-Server-/assets/112771153/652a45ab-e53c-47fe-90cf-82bebfb55a15)
 
 
+![Screenshot 2024-02-26 210117](https://github.com/praisy16/Multithreaded-Web-Server-/assets/112771153/feb3f14e-380c-4b79-bad7-b39c866ea3ce)
+
+
+![Screenshot 2024-02-27 161135](https://github.com/praisy16/Multithreaded-Web-Server-/assets/112771153/e99db817-3dab-4171-b825-f7d3b35efb70)
