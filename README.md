@@ -1,4 +1,4 @@
-A multithreaded TCP server programmed in Python. A TCP persistent connection is utilized in the project to keep the connection alive with a timeout of 10 seconds. 
+A multithreaded Python TCP server that serves multiple clients at once. A TCP persistent connection is utilized in the project to keep the connection alive with a timeout of 10 seconds. 
 
 The repository contains main.py that acts as the server and then it contains other html pages and image that are objects passed to the client.
 
