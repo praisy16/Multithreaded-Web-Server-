@@ -5,9 +5,13 @@ The repository contains main.py that acts as the server and then it contains oth
 • How to compile code -  
 
 o First, make sure index.html, page2.html, main.py, jpeg are all in the same folder.
+
 o Next, open a terminal and locate the folder.
+
 o Type “py main.py” and execute the main.py
+
 o Once the port is ready, open a browser and type in http://localhost:8080/index.html and it should redirect to page2.html
+
 o To check 404 http response, type a random page name to the same port and it should open a custom 404 page that is located in the main.py’s “send_404” function.
 
 
